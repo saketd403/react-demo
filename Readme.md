@@ -86,7 +86,7 @@ python main.py --model <model_name> --temperature <temperature_value> --num_step
 
 Example:
 ```bash
-python main.py --model "gpt-4" --temperature 0.3 --num_steps 10
+python main.py --model "gpt-4o" --temperature 0.3 --num_steps 10
 ```
 
 ### How the REACT Process Works:
